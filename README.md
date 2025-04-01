@@ -1,1 +1,1 @@
-# nee
+Nuestra plataforma tiene como propósito proporcionar a las instituciones educativas una herramienta integral de apoyo psicológico, facilitando la identificación, comprensión y orientación de estudiantes con dificultades cognitivas, emocionales y mentales. A través de información especializada, recursos educativos y asesoramiento profesional, buscamos capacitar a los docentes para que puedan ofrecer un acompañamiento efectivo, promoviendo el bienestar emocional y el desarrollo integral de los estudiantes en un entorno escolar inclusivo y empático.
